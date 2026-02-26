@@ -26,3 +26,4 @@ def search_index(index, query_vector, top_k=3):
     distances, indices = index.search(query_vector.astype("float32"), top_k)
 
     return indices[0]
+
