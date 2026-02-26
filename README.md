@@ -1,3 +1,5 @@
+# 🤖 AI Resume Analyzer
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sri-resume-ai.streamlit.app/)
 # AI Resume Copilot
 
 A Streamlit app that extracts text from PDFs, identifies skills, 
@@ -55,3 +57,4 @@ AI Resume Copilot is an end-to-end Retrieval Augmented Generation (RAG) applicat
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
